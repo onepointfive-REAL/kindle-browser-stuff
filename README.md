@@ -91,7 +91,7 @@ Result:
 
 ## Back Button
 
-`KPP_BACK` also works as a `topNavBar` button on the tested Kindle Paperwhite 6 running firmware 5.19.6.
+`KPP_BACK` also works as an invisible `topNavBar` button on the tested Kindle Paperwhite 6 running firmware 5.19.6.
 
 Example:
 
